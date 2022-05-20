@@ -1,2 +1,2 @@
 # Angular - Crud
-Projetinho simples de um CRUD feito em angular
+Projeto simples de um CRUD feito em angular
