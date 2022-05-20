@@ -1,0 +1,10 @@
+{
+  "product": [
+    {
+      "nome": "Teste",
+      "price": "25.00",
+      "codigo": "123",
+      "id": 1
+    }
+  ]
+}
